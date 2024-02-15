@@ -1,7 +1,7 @@
 # This Action Pubhlishes to NPM Automatically.
 on:
-  push:
-    branches: main
+  push: # event 
+    branches: main # configuration or Activity types?
 
 jobs:
   publish: # Name
