@@ -1,0 +1,20 @@
+{
+  "name": "npm-publish-test",
+  "version": "1.0.0",
+  "description": "learning github actions repo + pkg",
+  "main": "index.js",
+  "scripts": {
+    "ci": "echo 'my CI pipeline is now running...'",
+    "test": "echo 'my testing next goes here...'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stravid87/npm-publish-test.git"
+  },
+  "author": "me",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/stravid87/npm-publish-test/issues"
+  },
+  "homepage": "https://github.com/stravid87/npm-publish-test#readme"
+}
