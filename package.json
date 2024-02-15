@@ -1,6 +1,7 @@
 {
   "name": "@stravid87/npm-publish-test",
   "version": "1.0.0",
+  "scope": "@stravid87",
   "description": "learning github actions repo + pkg",
   "main": "index.js",
   "scripts": {
